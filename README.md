@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to VERLIX
 
-You can use the [editor on GitHub](https://github.com/VERLIX/verlix.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+VERLIX is a small group of hobbyist coders, all ages and all levels (beginner, moderate, advanced)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For admins and members on the official Discord server, please see [here](bit64.net)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### New Projects
+New from VERLIX, VERLIX Assistant, is going to be a virtual assistant designed for the casual use desktop computer. When you need him, when you want him. We want to design VERLIX Assistant unlike any other, therefore, this project will take quite a while.
 
 ```markdown
-Syntax highlighted code block
+V.A. planning markdown
 
-# Header 1
-## Header 2
-### Header 3
+# Ideas
 
-- Bulleted
-- List
+1. Add a main program, where you can edit the settings and such
+2. Add a secondary program, in which the virtual assistant will be housed
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## General Plan
+** Create a virtual assistant designed to help the everyday user
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more specifics see our Discord server at [VERLIX](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### UIs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VERLIX/verlix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. We are currently not using any certain non-stock UIs
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with VERLIX? Contact us on our Discord server [here](www.discord.com)
