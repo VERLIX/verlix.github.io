@@ -1,6 +1,6 @@
 # VERLIX CO.
 
-## Welcome to VERLIX
+## VERLIX
 
 VERLIX is a small group of hobbyist coders, all ages and all levels (beginner, moderate, advanced)
 
