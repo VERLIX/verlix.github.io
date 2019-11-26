@@ -1,4 +1,4 @@
-# VERLIX CO.
+# VERLIX CO
 
 ## VERLIX
 
